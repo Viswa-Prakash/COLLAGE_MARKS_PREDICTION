@@ -1,5 +1,8 @@
 numpy
 pandas
-
-
--e .
+seaborn
+matplotlib
+scikit-learn
+python-dotenv
+pymysql
+#-e .
