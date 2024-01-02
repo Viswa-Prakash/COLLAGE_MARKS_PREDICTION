@@ -1,1 +1,1 @@
-Collage Student Marks Prediction
+## Collage Student Marks Prediction
